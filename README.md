@@ -51,8 +51,6 @@ Special thanks to nf-core-metabolinden for the workflow.
 ## Citation
   
 Please cite:
->Untargeted screening of environmental contaminants in human plasma using liquid chromatography high resolution mass spectrometry with negative ionization  
->Henrik Carlsson, Akshai Parakkal Sreenivasan, Ida Erngren, Anders Larsson and Kim Kultima<br>
->Status: Submitted.
+Carlsson, Henrik & Sreenivasan, Akshai & Erngren, Ida & Larsson, Anders & Kultima, Kim. (2023). Combining targeted and untargeted screening of environmental contaminants reveals associations between PFAS exposure and vitamin D metabolism in human plasma. Environmental Science: Processes & Impacts. 25. 10.1039/D3EM00060E.
 <br>
 
